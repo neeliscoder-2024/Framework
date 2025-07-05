@@ -1,0 +1,71 @@
+# 🧱 Frameworks in Software Development
+
+## 📌 What is a Framework?
+
+A **framework** is a software tool used to create prototypes and build applications efficiently. It provides **pre-built components and features** that help developers avoid writing repetitive code, allowing them to focus on the unique parts of their project.
+
+Frameworks are one of the **important pillars** in project-driven development, offering structure, speed, and scalability.
+
+## 🧩 Types of Frameworks
+
+Frameworks can be broadly categorized into:
+
+### 🔷 Major Frameworks
+These are **full-stack frameworks** that provide everything needed for large-scale application development.
+
+- **Django**
+- **Pyramid**
+
+### 🔹 Minor Frameworks
+These are **micro-frameworks** that offer only the essentials, giving developers more flexibility.
+
+- **Flask**
+
+## 🚀 Benefits of Using Frameworks
+
+- Saves development time
+- Provides built-in tools and libraries
+- Encourages best practices and clean architecture
+- Improves code maintainability
+- Helpful for both beginners and experienced developers
+
+## 🌐 Django and N-Tier Architecture
+
+**Django** is a major framework that follows **N-tier architecture** for building dynamic web applications.
+
+### 🏗️ What is N-Tier Architecture?
+
+N-tier architecture separates an application into multiple layers:
+
+| Layer               | Description                          | Technologies Used         |
+|--------------------|--------------------------------------|---------------------------|
+| **Presentation Layer** | User interface                      | HTML, CSS, JavaScript     |
+| **Business Logic Layer** | Application logic                  | Python (Django views)     |
+| **Data Layer**         | Data storage and retrieval         | SQL, Django ORM           |
+
+> **Architecture** refers to the structural design or blueprint of a software project.
+
+> **Project** in Django is a container that holds multiple apps and configurations used to build a complete software system.
+
+## 🧠 Basic Concepts
+
+### 🔸 What is Software?
+
+**Software** is a collection of programs that control hardware and perform specific tasks.
+
+### 🔸 Types of Software
+
+1. **System Software**  
+   - Controls system-level operations  
+   - Examples: Windows, Linux, macOS
+
+2. **Application Software**  
+   - Performs specific user tasks  
+   - Examples: Calculator, MS Paint, Offline Games
+
+### 🔸 Types of Application Software
+
+| Type | Description | Examples |
+|------|-------------|----------|
+| **Client-Server / Web-Based** | Requires internet and server interaction | Gmail, Online Banking |
+| **Standalone** | Works without internet | Calculator, MS Paint, Offline Games |
